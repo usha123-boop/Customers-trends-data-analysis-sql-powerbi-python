@@ -6,8 +6,7 @@ This project is perfect for:
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
- 
-[![Advanced Data Analysis Portfolio Project using Retail Customer Data](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)]
+
 
 
 ## 📌 Project Overview
